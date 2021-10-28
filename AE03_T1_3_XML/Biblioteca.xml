@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<libros>
+    <libro>
+        <identificador>0</identificador>
+        <titulo>HarryPotter</titulo>
+        <autor>J.K.Rowling</autor>
+        <año_publicacion>2004</año_publicacion>
+        <editorial>Warner</editorial>
+        <numero_paginas>346</numero_paginas>
+    </libro>
+    <libro>
+        <identificador>1</identificador>
+        <titulo>PeterPan</titulo>
+        <autor>Jeremy</autor>
+        <año_publicacion>1994</año_publicacion>
+        <editorial>Bilbo</editorial>
+        <numero_paginas>256</numero_paginas>
+    </libro>
+    <libro>
+        <identificador>2</identificador>
+        <titulo>Grey</titulo>
+        <autor>Jonson</autor>
+        <año_publicacion>2019</año_publicacion>
+        <editorial>Sex</editorial>
+        <numero_paginas>521</numero_paginas>
+    </libro>
+    <libro>
+        <identificador>3</identificador>
+        <titulo>Blancanieves</titulo>
+        <autor>Grimm</autor>
+        <año_publicacion>1885</año_publicacion>
+        <editorial>Disney</editorial>
+        <numero_paginas>225</numero_paginas>
+    </libro>
+    <libro>
+        <identificador>4</identificador>
+        <titulo>La Buena Suerte</titulo>
+        <autor>Arturo</autor>
+        <año_publicacion>2016</año_publicacion>
+        <editorial>Matilde</editorial>
+        <numero_paginas>364</numero_paginas>
+    </libro>
+</libros>
